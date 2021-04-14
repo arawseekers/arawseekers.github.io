@@ -6,10 +6,19 @@
     <description>Recent content on Araw Seekers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2020 18:06:16 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Apr 2021 10:35:02 +0800</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BLOG</title>
+      <link>/blog/</link>
+      <pubDate>Wed, 14 Apr 2021 10:35:02 +0800</pubDate>
+      
+      <guid>/blog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Colophon</title>
@@ -48,15 +57,6 @@ We try to update the selection.
 Proceeds will directly benefit the owners, Pablo and Edgar (dog and cat, respectively).&lt;/p&gt;
 &lt;p&gt;IG: &lt;a href=&#34;https://instagram.com/petbookshelf&#34;&gt;@petbookshelf&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>BLOG</title>
-      <link>/blog/</link>
-      <pubDate>Tue, 03 Nov 2020 18:06:16 +0800</pubDate>
-      
-      <guid>/blog/</guid>
-      <description></description>
     </item>
     
   </channel>
