@@ -1,64 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Araw Seekers</title>
-    <link>/</link>
-    <description>Recent content on Araw Seekers</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 14 Apr 2021 10:35:02 +0800</lastBuildDate>
-    
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>BLOG</title>
-      <link>/blog/</link>
-      <pubDate>Wed, 14 Apr 2021 10:35:02 +0800</pubDate>
-      
-      <guid>/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Colophon</title>
-      <link>/colophon/</link>
-      <pubDate>Sat, 14 Nov 2020 00:10:34 +0800</pubDate>
-      
-      <guid>/colophon/</guid>
-      <description>&lt;p&gt;This blog is our brainchild.&lt;/p&gt;
-&lt;p&gt;Made with &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Jimmy Caring</title>
-      <link>/jimcaring/</link>
-      <pubDate>Sat, 14 Nov 2020 00:09:37 +0800</pubDate>
-      
-      <guid>/jimcaring/</guid>
-      <description>&lt;p&gt;Our attempt at vermiculture will teach us more ways than one when it comes to urban gardening.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Araw Seekers</title><link>/</link><description>Recent content on Araw Seekers</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 08 May 2021 17:35:17 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>BLOG</title><link>/blog/</link><pubDate>Sat, 08 May 2021 17:35:17 +0800</pubDate><guid>/blog/</guid><description/></item><item><title>Colophon</title><link>/colophon/</link><pubDate>Sat, 14 Nov 2020 00:10:34 +0800</pubDate><guid>/colophon/</guid><description>&lt;p>This blog is our brainchild.&lt;/p>
+&lt;p>Made with &lt;a href="https://gohugo.io">Hugo&lt;/a>.
+No trackers, ads, scripts.&lt;/p></description></item><item><title>Jimmy Caring</title><link>/jimcaring/</link><pubDate>Sat, 14 Nov 2020 00:09:37 +0800</pubDate><guid>/jimcaring/</guid><description>&lt;p>Our attempt at vermiculture will teach us more ways than one when it comes to urban gardening.
 This is our stepping stone to permaculture.
-Jimmy, by the way, is the name we&amp;rsquo;ve given to the collective of African Nightcrawlers that helps us in this endeavor.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pet Bookshelf</title>
-      <link>/pet-bookshelf/</link>
-      <pubDate>Fri, 13 Nov 2020 23:58:32 +0800</pubDate>
-      
-      <guid>/pet-bookshelf/</guid>
-      <description>&lt;p&gt;We like to read.&lt;/p&gt;
-&lt;p&gt;But we&amp;rsquo;re not one of those voracious readers who can&amp;rsquo;t seem to get enough of books, and we envy them sometimes.&lt;/p&gt;
-&lt;p&gt;And yet, the number of books that we have continue to accumulate, only collecting dust in the corner where we pushed them.&lt;/p&gt;
-&lt;p&gt;If you love reading books, why not visit our second-hand bookstore on Instagram?
-We try to update the selection.
-Proceeds will directly benefit the owners, Pablo and Edgar (dog and cat, respectively).&lt;/p&gt;
-&lt;p&gt;IG: &lt;a href=&#34;https://instagram.com/petbookshelf&#34;&gt;@petbookshelf&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-
+Jimmy, by the way, is the name we&amp;rsquo;ve given to the collective of African Nightcrawlers that helps us in this endeavor.&lt;/p></description></item><item><title>Always Carry</title><link>/alwayscarry/</link><pubDate>Fri, 13 Nov 2020 23:58:32 +0800</pubDate><guid>/alwayscarry/</guid><description>&lt;p>This is our small online shop.&lt;/p>
+&lt;p>We have books, and other trinkets for your home.&lt;/p>
+&lt;p>Visit the website:
+&lt;a href="https://alwayscarry.netlify.app">https://alwayscarry.netlify.app&lt;/a>&lt;/p></description></item></channel></rss>
